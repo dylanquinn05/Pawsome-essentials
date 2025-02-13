@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pawsome Essentials</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #222;
+            color: white;
+            text-align: center;
+        }
+        header {
+            padding: 20px;
+        }
+        .logo {
+            max-width: 200px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        .product {
+            background: #333;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 10px;
+        }
+        .product a {
+            color: #ffcc00;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="Black Cream Simple Illustrated Paw Dog Daycare Logo.png" alt="Pawsome Essentials Logo" class="logo">
+        <h1>Welcome to Pawsome Essentials</h1>
+        <p>Your go-to source for top dog essentials!</p>
+    </header>
+    <div class="container">
+        <h2>Top Trending Dog Essentials</h2>
+        <div class="product">
+            <h3>Best-Selling Dog Bed</h3>
+            <p>Comfortable and durable bed for your furry friend.</p>
+            <a href="https://www.amazon.com/dog-bed" target="_blank">Shop Now</a>
+        </div>
+        <div class="product">
+            <h3>High-Quality Dog Leash</h3>
+            <p>Strong and stylish leash for everyday walks.</p>
+            <a href="https://www.amazon.com/dog-leash" target="_blank">Shop Now</a>
+        </div>
+        <div class="product">
+            <h3>Healthy Dog Treats</h3>
+            <p>Nutritious and delicious treats your pup will love.</p>
+            <a href="https://www.amazon.com/dog-treats" target="_blank">Shop Now</a>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2025 Pawsome Essentials | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
